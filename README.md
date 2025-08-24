@@ -53,4 +53,3 @@ Website cung cấp tính năng quản lý sản phẩm, giỏ hàng và đặt h
    php artisan serve
 # 👨‍💻 Thành viên
 - Trần Nguyễn Thuỵ Nhân
->>>>>>> 9eaf2bd40dc8e3d615042254cb15920420dc517b
