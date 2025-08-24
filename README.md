@@ -1,7 +1,7 @@
 # 👟 Website Bán Giày Dép  
 
 ## 📌 Giới thiệu  
-Dự án này là một website bán giày dép trực tuyến, được xây dựng bằng **Laravel 11** với gói **Laravel Breeze** để xử lý chức năng đăng ký, đăng nhập, đăng xuất.  
+Dự án này là một website bán giày dép trực tuyến, được xây dựng bằng **Laravel 11** để xử lý chức năng đăng ký, đăng nhập, đăng xuất.  
 Website cung cấp tính năng quản lý sản phẩm, giỏ hàng và đặt hàng.  
 
 ---
@@ -9,14 +9,13 @@ Website cung cấp tính năng quản lý sản phẩm, giỏ hàng và đặt h
 ## ⚙️ Công nghệ sử dụng  
 - **Backend:** Laravel 11, PHP 8.2  
 - **Frontend:** Blade Template, TailwindCSS, Alpine.js  
-- **Database:** MySQL  
-- **Auth:** Laravel Breeze  
+- **Database:** MySQL   
 - **Quản lý code:** GitHub  
 
 ---
 
 ## 🚀 Tính năng chính  
-- 🔑 Đăng ký, đăng nhập, đăng xuất người dùng (Laravel Breeze)  
+- 🔑 Đăng ký, đăng nhập, đăng xuất người dùng 
 - 🛒 Quản lý giỏ hàng  
 - 📦 Quản lý sản phẩm (CRUD giày dép)  
 - 📝 Đặt hàng và quản lý đơn hàng  
